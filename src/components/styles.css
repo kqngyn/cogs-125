@@ -1,0 +1,22 @@
+.label {
+  height: 131px;
+  width: 1200px;
+}
+
+.label .text-wrapper {
+  color: #000000;
+  font-family: "Horizon-Bold", Helvetica;
+  font-size: 150px;
+  font-weight: 700;
+  height: 131px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 1200px;
+}
+
+  
